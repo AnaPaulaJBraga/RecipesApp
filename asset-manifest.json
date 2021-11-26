@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/RecipesApp/static/css/main.4613c3ba.chunk.css",
+    "main.js": "/RecipesApp/static/js/main.a60a05ef.chunk.js",
+    "main.js.map": "/RecipesApp/static/js/main.a60a05ef.chunk.js.map",
+    "runtime-main.js": "/RecipesApp/static/js/runtime-main.6fd71fbe.js",
+    "runtime-main.js.map": "/RecipesApp/static/js/runtime-main.6fd71fbe.js.map",
+    "static/css/2.945f44db.chunk.css": "/RecipesApp/static/css/2.945f44db.chunk.css",
+    "static/js/2.f3dacc3b.chunk.js": "/RecipesApp/static/js/2.f3dacc3b.chunk.js",
+    "static/js/2.f3dacc3b.chunk.js.map": "/RecipesApp/static/js/2.f3dacc3b.chunk.js.map",
+    "index.html": "/RecipesApp/index.html",
+    "precache-manifest.d01217e1212a683c193ced2df7c4fe11.js": "/RecipesApp/precache-manifest.d01217e1212a683c193ced2df7c4fe11.js",
+    "service-worker.js": "/RecipesApp/service-worker.js",
+    "static/css/2.945f44db.chunk.css.map": "/RecipesApp/static/css/2.945f44db.chunk.css.map",
+    "static/css/main.4613c3ba.chunk.css.map": "/RecipesApp/static/css/main.4613c3ba.chunk.css.map",
+    "static/js/2.f3dacc3b.chunk.js.LICENSE.txt": "/RecipesApp/static/js/2.f3dacc3b.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/RecipesApp/static/media/blackHeartIcon.9488c27d.svg",
+    "static/media/drinkIcon.svg": "/RecipesApp/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/RecipesApp/static/media/exploreIcon.157945ff.svg",
+    "static/media/masterDev-logo-min.svg": "/RecipesApp/static/media/masterDev-logo-min.17381d63.svg",
+    "static/media/masterDev-logo.svg": "/RecipesApp/static/media/masterDev-logo.e284071d.svg",
+    "static/media/mealIcon.svg": "/RecipesApp/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/RecipesApp/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/RecipesApp/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/RecipesApp/static/media/shareIcon.06215ed4.svg",
+    "static/media/user.svg": "/RecipesApp/static/media/user.658686a4.svg",
+    "static/media/whiteHeartIcon.svg": "/RecipesApp/static/media/whiteHeartIcon.3bb95068.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd71fbe.js",
+    "static/css/2.945f44db.chunk.css",
+    "static/js/2.f3dacc3b.chunk.js",
+    "static/css/main.4613c3ba.chunk.css",
+    "static/js/main.a60a05ef.chunk.js"
+  ]
+}
