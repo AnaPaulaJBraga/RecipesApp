@@ -1,4 +1,4 @@
-[<img src="https://github.com/pauloeduardods/recipes-app/blob/main/Recipes-App.png" />]
+<img src="https://github.com/pauloeduardods/recipes-app/blob/main/Recipes-App.png" />
 
 # Habilidades
 
